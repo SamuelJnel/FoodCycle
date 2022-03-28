@@ -109,9 +109,14 @@ nav ul li:hover {
   align-items: center;
   height: 100%;
 }
+.mobile-main-container {
+  height: 98%;
+  display: flex;
+  justify-content: center;
+}
 
 .mobile-main {
-  width: 370px;
+  width: 100%;
 }
 
 .home-cta {
